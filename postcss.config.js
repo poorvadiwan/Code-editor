@@ -4,3 +4,5 @@ module.exports = {
     autoprefixer: {},
   },
 }
+
+/* this is post css config for Tailwind */

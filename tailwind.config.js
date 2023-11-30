@@ -5,3 +5,6 @@ module.exports = {
   },
   plugins: [],
 };
+
+
+/* Tailwind config file!! */
